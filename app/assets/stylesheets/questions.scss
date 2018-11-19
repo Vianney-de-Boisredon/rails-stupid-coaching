@@ -1,0 +1,32 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.answer-nicer {
+  background-color: #fff8e8;
+  border-left: 10px solid rgba(0, 0, 0, 0.1);
+  margin: 35px;
+}
+
+.question-nicer {
+  margin: 35px;
+  background-color: #b4e9f7;
+  border-left: 10px solid rgba(0, 0, 0, 0.1);
+}
+
+.btn-center {
+  text-align: center;
+}
+
+h2 {
+  font-size: 15px !important;
+}
+
+h1, h2, form {
+  text-align: center;
+  margin-top: 25px !important;
+}
+
+.wider {
+  width: 300px;
+}
